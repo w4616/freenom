@@ -445,7 +445,7 @@ systemctl restart docker
 
 ### 🧪 通过 Mogenius 部署
 
-暂时没时间写详细教程，有兴趣的可以自己尝试一下。参考我此处的说明事项： [https://github.com/luolongfei/freenom/issues/146](https://github.com/luolongfei/freenom/issues/146) 
+暂时没时间写详细教程，有兴趣的可以自己尝试一下。参考我此处的说明事项： [http://github.com/luolongfei/freenom/issues/146](https://github.com/luolongfei/freenom/issues/146) 
 
 ***
 
